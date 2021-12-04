@@ -1,1 +1,1 @@
-# dice
+Its a simple dice game
